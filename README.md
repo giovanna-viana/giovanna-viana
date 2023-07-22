@@ -19,8 +19,8 @@
 ##
 <div>
   <a href="https://github.com/giovanna-viana">
-    <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=giovanna-viana&rank_icon=github&show_icons=true&theme=nightowl"/>
-    <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna-viana&hide_progress=true&langs_count=16&theme=nightowl"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=giovanna-viana&rank_icon=github&show_icons=true&theme=nightowl"/>
+    <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna-viana&hide_progress=true&langs_count=16&theme=nightowl"/>
 </div>
 
 ##
