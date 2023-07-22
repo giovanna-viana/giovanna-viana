@@ -1,5 +1,6 @@
-## Hi there, I'm Giovanna Viana! 🐱‍💻
+![github_artpixelbanner](https://github.com/giovanna-viana/giovanna-viana/assets/73502367/277a3bae-bf68-45d6-8799-8bfa79a02c27)
 
+# Hi there, I'm Giovanna Viana! 🐱‍💻
 
 - 💻 I'm a Analysis and Systems Development student 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
