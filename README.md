@@ -1,20 +1,14 @@
 ![github_artpixelbanner](https://github.com/giovanna-viana/giovanna-viana/assets/73502367/277a3bae-bf68-45d6-8799-8bfa79a02c27)
 
-# Hi there, I'm Giovanna Viana! 🐱‍💻
+# Hi there, I'm Giovanna Viana!
 
 - 💻 I'm a Analysis and Systems Development student 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🐱‍💻 I’m currently learning JavaScript and React
 
 ##
 
-### Toolkit 
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+### Languages e Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,git,vscode)](https://skillicons.dev)
 
 ##
 <div>
@@ -27,6 +21,8 @@
 
 ### Contact
 <div> 
-  <a href="https://www.linkedin.com/in/giovanna-viana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/giovanna-viana" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
   
 </div>
