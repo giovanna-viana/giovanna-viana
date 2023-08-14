@@ -21,7 +21,7 @@
 
 ### Contact
 <div> 
-    <a href="https://www.linkedin.com/in/giovanna-viana" target="_blank">
+    <a href="https://www.linkedin.com/in/giovanna-viana">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
   
