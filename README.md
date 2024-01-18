@@ -1,6 +1,6 @@
 ![github_artpixelbanner](https://github.com/giovanna-viana/giovanna-viana/assets/73502367/277a3bae-bf68-45d6-8799-8bfa79a02c27)
 
-# Hi there, I'm Giovanna Viana!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=26&pause=1000&color=FFFFFF&vCenter=true&random=false&width=475&height=60&lines=Hi+there%2C+I'm+Giovanna+Viana!+)](https://git.io/typing-svg)
 
 - 💻 I'm a Analysis and Systems Development student 
 - 🐱‍💻 I’m currently learning JavaScript and React
