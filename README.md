@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/0d85c84f-948e-4e3e-9a0b-5139a465ba90)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88faafd2-25cf-405a-9759-4e3983052d2b"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=26&pause=1000&color=FFFFFF&vCenter=true&random=false&width=475&height=60&lines=Hi+there%2C+I'm+Giovanna+Viana!+)](https://git.io/typing-svg)
 
