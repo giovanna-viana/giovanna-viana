@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=26&pause=1000&color=FFFFFF&vCenter=true&random=false&width=475&height=60&lines=Hi+there%2C+I'm+Giovanna+Viana!+)](https://git.io/typing-svg)
 
-- 💻 I'm a Analysis and Systems Development student 
-- 🐱‍💻 I’m currently learning JavaScript and React
+- :cloud: I'm a Salesforce System Analyst
+- :shipit: I’m currently learning Salesforce Platform and Apex
 
 ##
 
-### Languages e Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,git,vscode)](https://skillicons.dev)
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,vscode)](https://skillicons.dev)
 
 ##
 <div>
