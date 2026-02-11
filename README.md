@@ -12,14 +12,15 @@
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,vscode)](https://skillicons.dev)
 
-##
-<div>
-  <a href="https://github.com/giovanna-viana">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=giovanna-viana&rank_icon=github&show_icons=true&theme=nightowl"/>
-    <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna-viana&hide_progress=true&langs_count=16&theme=nightowl"/>
-</div>
-
-##
+### Salesforce Certifications
+<p>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=1746782543000" alt="Salesforce Certified Platform Foundations" width="100" height="100"/>
+	<img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000YMdGt&oid=00DF0000000gZsu&lastMod=1770009252000" alt="Salesforce Certified AI Associate - Retired" width="100" height="100"/>
+	<img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" alt="Salesforce Certified Platform Administrator" width="100" height="100"/>
+ 	<img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000" alt="Salesforce Certified Platform App Builder" width="100" height="100"/>
+	<img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA5ky&oid=00DF0000000gZsu&lastMod=1746775595000" alt="Salesforce Certified Business Analyst" width="100" height="100"/>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA14b&oid=00DF0000000gZsu&lastMod=1746774124000" alt="Salesforce Certified Agentforce Specialist" width="100" height="100"/>
+</p>
 
 ### Contact
 <div> 
