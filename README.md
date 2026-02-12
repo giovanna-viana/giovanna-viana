@@ -30,6 +30,6 @@
 ### Contact
 <div> 
     <a href="https://www.linkedin.com/in/giovanna-viana">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skills.syvixor.com/api/icons?i=linkedin" />
     </a>
 </div>
