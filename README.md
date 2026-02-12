@@ -10,7 +10,10 @@
 ##
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,vscode)](https://skillicons.dev)
+![Skills](https://skills.syvixor.com/api/icons?i=html,css3,javascript,git,visualstudiocode)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="60" height="55" alt="Salesforce" />
+
+##
 
 ### Salesforce Certifications
 <p>
@@ -22,10 +25,11 @@
   <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA14b&oid=00DF0000000gZsu&lastMod=1746774124000" alt="Salesforce Certified Agentforce Specialist" width="100" height="100"/>
 </p>
 
+##
+
 ### Contact
 <div> 
     <a href="https://www.linkedin.com/in/giovanna-viana">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-  
 </div>
